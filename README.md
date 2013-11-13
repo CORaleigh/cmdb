@@ -1,4 +1,4 @@
 cmdb
 ====
 
-Configuration Management Database including a Master Application Repository for City of Raleigh Business Applications
+Configuration Management Database including a Master Application Inventory for all City of Raleigh Business Applications
